@@ -1,5 +1,16 @@
 # 💫 About Me:
-# 👋 Ciao, sono Daniele Coppa  <br><br>🎓 **Jr. Software Developer** con formazione ITS in **Developer 4.0**.  <br><br>---<br><br>## 📌 Progetti principali<br>- 📂 [Prenotazione Postazioni](https://github.com/reddooneee/PrenotazionePostazioni-Exprivia)  <br>  Applicazione full-stack per la gestione di prenotazioni di stanze e postazioni aziendali.  <br>  - Backend: Java 17, Spring Boot  <br>  - Frontend: Angular  <br>  - Database: PostgreSQL  <br><br>---<br><br>## 📫 Contatti<br>- 📧 **Email:** daniele.coppa30@gmail.com
+👋 Ciao, sono Daniele Coppa  <br><br>🎓 **Jr. Software Developer** con formazione ITS in **Developer 4.0**.  
+<br>---<br>
+
+# 📌 Progetti principali<br>
+📂 [Prenotazione Postazioni](https://github.com/reddooneee/PrenotazionePostazioni-Exprivia)
+- Applicazione full-stack per la gestione di prenotazioni di stanze e postazioni aziendali.
+- Backend: Java 17, Spring Boot  <br>  
+- Frontend: Angular
+- Database: PostgreSQL
+
+# 📫 Contatti <br>
+- 📧 **Email:** daniele.coppa30@gmail.com
 
 
 # 💻 Tech Stack:
